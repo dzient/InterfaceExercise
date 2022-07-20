@@ -1,0 +1,14 @@
+C:\Users\kc2us\Documents\GitHub\InterfaceExercise\InterfaceExercise\bin\Debug\netcoreapp3.1\InterfaceExercise.exe
+C:\Users\kc2us\Documents\GitHub\InterfaceExercise\InterfaceExercise\bin\Debug\netcoreapp3.1\InterfaceExercise.deps.json
+C:\Users\kc2us\Documents\GitHub\InterfaceExercise\InterfaceExercise\bin\Debug\netcoreapp3.1\InterfaceExercise.runtimeconfig.json
+C:\Users\kc2us\Documents\GitHub\InterfaceExercise\InterfaceExercise\bin\Debug\netcoreapp3.1\InterfaceExercise.runtimeconfig.dev.json
+C:\Users\kc2us\Documents\GitHub\InterfaceExercise\InterfaceExercise\bin\Debug\netcoreapp3.1\InterfaceExercise.dll
+C:\Users\kc2us\Documents\GitHub\InterfaceExercise\InterfaceExercise\bin\Debug\netcoreapp3.1\InterfaceExercise.pdb
+C:\Users\kc2us\Documents\GitHub\InterfaceExercise\InterfaceExercise\obj\Debug\netcoreapp3.1\InterfaceExercise.csproj.AssemblyReference.cache
+C:\Users\kc2us\Documents\GitHub\InterfaceExercise\InterfaceExercise\obj\Debug\netcoreapp3.1\InterfaceExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kc2us\Documents\GitHub\InterfaceExercise\InterfaceExercise\obj\Debug\netcoreapp3.1\InterfaceExercise.AssemblyInfoInputs.cache
+C:\Users\kc2us\Documents\GitHub\InterfaceExercise\InterfaceExercise\obj\Debug\netcoreapp3.1\InterfaceExercise.AssemblyInfo.cs
+C:\Users\kc2us\Documents\GitHub\InterfaceExercise\InterfaceExercise\obj\Debug\netcoreapp3.1\InterfaceExercise.csproj.CoreCompileInputs.cache
+C:\Users\kc2us\Documents\GitHub\InterfaceExercise\InterfaceExercise\obj\Debug\netcoreapp3.1\InterfaceExercise.dll
+C:\Users\kc2us\Documents\GitHub\InterfaceExercise\InterfaceExercise\obj\Debug\netcoreapp3.1\InterfaceExercise.pdb
+C:\Users\kc2us\Documents\GitHub\InterfaceExercise\InterfaceExercise\obj\Debug\netcoreapp3.1\InterfaceExercise.genruntimeconfig.cache
